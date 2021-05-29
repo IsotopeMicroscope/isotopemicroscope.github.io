@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ja-JP"
-title                    : "同位体顕微鏡＠北海道大学"
+title                    : "同位体顕微鏡"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hokudai SIMS"
+name                     : "Isotope Microscope"
 description              : "同位体顕微鏡の情報共有を行っています。"
 url                      : https://isotopemicroscope.github.io/iil/
 baseurl                  : # the subpath of your site, e.g. "/blog"

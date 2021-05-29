@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title : "What's isotope microscope"
+title : "What's Isotope Microscope"
 permalink: /introduction/
 comments: true
 sidebar: 
@@ -10,7 +10,7 @@ sidebar:
 このページでは，同位体顕微鏡の初歩(何ができるか、どんな試料は分析できるか)を説明します。
 
 ### 同位体顕微鏡とはなにか
-同位体顕微鏡システム（Isotope Microscope）は，SIMS（Secondary Ionization Mass Spectrometer:二次イオン質量分析計）の技術を発展させ，物質中の同位元素の３次元分布をイメージング可能とした世界唯一の装置です．最近では，はやぶさ2の分析に使われるとのことで，[話題](https://www.hokudai.ac.jp/researchtimes/2020/12/20212.html)になりました．  
+同位体顕微鏡システム（Isotope Microscope）は，SIMS（Secondary Ion Mass Spectrometry:二次イオン質量分析法）の技術を発展させ，物質中の同位元素の３次元分布をイメージング可能とした世界唯一の装置です．隕石や月の石など、主に地球外物質を分析するために開発され、探査機はやぶさの持ち帰った小惑星イトカワ試料の分析にも用いられました。後継の探査機はやぶさ2や米国NASAの探査機OSIRIS-RExの分析も行う予定です，  
 
 #### 同位体顕微鏡は何がすごい
 1. 常温・クライオ環境下で，マイクロ領域の***同位体のイメージング**ができます．      
