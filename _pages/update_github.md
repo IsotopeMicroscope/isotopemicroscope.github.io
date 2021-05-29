@@ -13,14 +13,17 @@ sidebar:
 このサイトは，Github pagesの機能を用いて，作成されていて，「多人数で制作に参加できる」ようになっています．ぜひ，こちらの情報をご参照頂き，今後，記事作成をお願いできますと嬉しいです．
 
 ### 作成で役立つリンク
-#### 編集に役立つサイト
-- [Minimai Mistakesマークアップシート](https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/)   
+- [本サイトのディレクトリ](https://github.com/IsotopeMicroscope/isotopemicroscope.github.io/tree/gh-pages)
+- [更新履歴](https://github.com/IsotopeMicroscope/isotopemicroscope.github.io/commits/gh-pages)
+#### 編集に役立つサイト   
+- [Minimal Mistakesマークアップシート](https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/)   
+- [Minimal Mistakes 画像・動画など埋め込み方法](https://mmistakes.github.io/minimal-mistakes/docs/helpers/)
 - [Markdownチートシート](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)    
-#### 編集で使用するソフトウェア・ツール
-- [GitHub](https://github.com/)
+#### 編集で使用するソフトウェア・ツール   
 - [Visual Studio code](https://code.visualstudio.com/)   
 - [GitHub Desktop](https://desktop.github.com/)
-#### VS code内の拡張機能
+- [LossLessCut](https://github.com/mifi/lossless-cut)
+#### VS code内の拡張機能   
 - [Japanese Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ja)
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
@@ -32,8 +35,34 @@ sidebar:
 おもに，皆様に追記いただきたいのは，2の記事コンテンツです．   
 
 記事コンテンツは次のような流れで作成出来ます．   
-【推奨】[gi hub pagesのディレクトリ](https://github.com/IsotopeMicroscope/isotopemicroscope.github.io/tree/gh-pages)をフォークの上，お手持ちの端末で編集，ご自身のGithubディレクトリ上に同期させた後，pullリクエストを送ってください．その際に，gh-pagesへのmerge希望を行ってください．
+【推奨】[git hub pagesのディレクトリ](https://github.com/IsotopeMicroscope/isotopemicroscope.github.io/tree/gh-pages)をフォークの上，お手持ちの端末で編集，ご自身のGithubディレクトリ上に同期させた後，pullリクエストを送ってください．その際に，gh-pagesへのmerge希望を行ってください．  
+
 【初歩1】Wordファイル，または，Google documentでお送りください．   
-【初歩2】ファイル本体を記入した.mdファイルをお送りください．写真等の添付がある場合には同じ名前のディレクトリを作成し，.mdとフォルダを1つのzipファイルにまとめてお送りください．   
+【初歩2】ファイル本体を記入した.mdファイルをお送りください．写真等の添付がある場合には同じ名前のディレクトリを作成し，.mdとフォルダを1つのzipファイルにまとめてお送りください．
+{: .notice--info} 
 
 お送り頂いた記事は，レビュー・体裁や内容の修正のなどを行った上で，公開させていただきます．
+
+### 記事の雛形   
+このページのローデータは[こちら](https://github.com/IsotopeMicroscope/isotopemicroscope.github.io/blob/gh-pages/_pages/update_github.md)です．雛形としてご利用ください．
+
+1. 記事のファイル形式はmarkdows (.md)です． 
+2. 改行は文末にスペースを複数(2つ)入れていください (1行空白の行を入れるか，brタグでも改行可能です．)．  
+3. ヘッダーは下記から#以下を除いてご利用ください．titleとpermalinkは適宜更新してください．
+
+```YAML
+---
+layout: single # Page style. Don't touch.
+classes: wide # Page style. Don't touch.
+title : "Githubを用いたページ更新" # This is a title of the page.
+permalink: /update/ #This is a url where the page will appear.
+comments: true  # A comment bar may or may not appear at the bottom.
+sidebar: # Page navigation info. Don't touch.
+    nav: "analysis" # Page navigation info. Don't touch.
+---
+ここから下に，markdown形式で記事を記入ください．
+```
+
+解説動画は下記です (push可能な方向け) ．  
+
+pull requestの方法は，後日更新します．   
