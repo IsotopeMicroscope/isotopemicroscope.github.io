@@ -56,21 +56,21 @@ sidebar:
 
 ```
 ---
-layout: single # Page style. Don't touch.
-classes: wide # Page style. Don't touch.
+layout: single # Don't touch.
+classes: wide # Don't touch.
 title : "Githubを用いたページ更新" # This is a title of the page.
 permalink: /update/ #This is a url where the page will appear.
 comments: true  # A comment bar may or may not appear at the bottom.
-sidebar: # Page navigation info. Don't touch.
-    nav: "analysis" # Page navigation info. Don't touch.
+sidebar: # Don't touch.
+    nav: "analysis" # Don't touch.
 ---
 ここから下に，markdown形式で記事を記入ください．
 ```
 
 ### 解説動画  
-1. VScode・Github desktopの導入まで   
+動画1) VScode・Github desktopの導入まで   
 {% include video id="1LCNpWuU1HNorvVph6WvO24_iFiMeVjn3" provider="google-drive" %}
-2. 上記ソフトウェアを利用したファイルの更新   
+動画2) 上記ソフトウェアを利用したファイルの更新   
 {% include video id="1x2jczeMgkRVKvujIuMFebOBjDbMZG8tf" provider="google-drive" %}
 
 ※pull requestの方法は，後日更新します．   
