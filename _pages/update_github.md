@@ -13,7 +13,7 @@ sidebar:
 このサイトは，Github pagesの機能を用いて，作成されていて，「多人数で制作に参加できる」ようになっています．ぜひ，こちらの情報をご参照頂き，今後，記事作成をお願いできますと嬉しいです．
 
 ### 作成で役立つリンク
-- [本サイトのディレクトリ](https://github.com/IsotopeMicroscope/isotopemicroscope.github.io/tree/gh-pages)
+- [本サイトのレポジトリ](https://github.com/IsotopeMicroscope/isotopemicroscope.github.io/tree/gh-pages)
 - [更新履歴](https://github.com/IsotopeMicroscope/isotopemicroscope.github.io/commits/gh-pages)
 #### 編集に役立つサイト   
 - [Minimal Mistakesマークアップシート](https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/)   
@@ -27,6 +27,8 @@ sidebar:
 - [Japanese Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ja)
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
+
+[link](https://isotopemicroscope.github.io/update/)
 
 ### 記事ファイルの作成方法
 このサイトの記事には，２種類あります．   
