@@ -28,22 +28,23 @@ sidebar:
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
 
-[link](https://isotopemicroscope.github.io/update/)
-
 ### 記事ファイルの作成方法
-このサイトの記事には，２種類あります．   
+このサイトのファイルには，3種類あります．   
 1. 記事への導線やトップページのデザインなど，「機能」を優先して作られたファイル．例：[トップページ](/)，[分析方法共有の一覧](/analysis/)
 2. 記事のコンテンツそのもの．".md"ファイルで作られています．例：[明るさ・コントラストの調整方法](/analysis/b_c_lut/)
-おもに，皆様に追記いただきたいのは，2の記事コンテンツです．   
+3. ページのバックグラウンドに関係するファイル(写真やcss，ymlなど)．
+皆様に追記いただきたいのは，おもに2の記事コンテンツです．   
 
 記事コンテンツは次のような流れで作成出来ます．   
-【推奨】[git hub pagesのディレクトリ](https://github.com/IsotopeMicroscope/isotopemicroscope.github.io/tree/gh-pages)をフォークの上，お手持ちの端末で編集，ご自身のGithubディレクトリ上に同期させた後，pullリクエストを送ってください．その際に，gh-pagesへのmerge希望を行ってください．  
+【推奨】[git hub pagesのディレクトリ](https://github.com/IsotopeMicroscope/isotopemicroscope.github.io/tree/gh-pages)をフォークの上，お手持ちの端末で編集，ご自身のGithubディレクトリ上に同期させた後，pullリクエストを送ってください．その際に，gh-pagesへのmerge希望を行ってください．(動画での解説予定)
+
+その他，次の２つの方法がありえます．
 
 【初歩1】Wordファイル，または，Google documentでお送りください．   
 【初歩2】ファイル本体を記入した.mdファイルをお送りください．写真等の添付がある場合には同じ名前のディレクトリを作成し，.mdとフォルダを1つのzipファイルにまとめてお送りください．
 {: .notice--info} 
 
-お送り頂いた記事は，レビュー・体裁や内容の修正のなどを行った上で，公開させていただきます．
+お送り頂いた記事は，レビュー・体裁や内容の修正のなどを行った上で，公開します．
 
 ### 記事の雛形   
 このページのローデータは[こちら](https://github.com/IsotopeMicroscope/isotopemicroscope.github.io/blob/gh-pages/_pages/update_github.md)です．雛形としてご利用ください．
@@ -52,7 +53,8 @@ sidebar:
 2. 改行は文末にスペースを複数(2つ)入れていください (1行空白の行を入れるか，brタグでも改行可能です．)．  
 3. ヘッダーは下記から#以下を除いてご利用ください．titleとpermalinkは適宜更新してください．
 
-```YAML
+
+```
 ---
 layout: single # Page style. Don't touch.
 classes: wide # Page style. Don't touch.
@@ -65,6 +67,10 @@ sidebar: # Page navigation info. Don't touch.
 ここから下に，markdown形式で記事を記入ください．
 ```
 
-解説動画は下記です (push可能な方向け) ．  
+### 解説動画  
+1. VScode・Github desktopの導入まで   
+{% include video id="1LCNpWuU1HNorvVph6WvO24_iFiMeVjn3" provider="google-drive" %}
+2. 上記ソフトウェアを利用したファイルの更新   
+{% include video id="1x2jczeMgkRVKvujIuMFebOBjDbMZG8tf" provider="google-drive" %}
 
-pull requestの方法は，後日更新します．   
+※pull requestの方法は，後日更新します．   
