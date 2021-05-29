@@ -1,65 +1,69 @@
 # main links
 main:
-  - title: "What's Isotope Microscope"
-    url: /introduction/
-  - title: "Analysis"
-    url: /analysis/
-  - title: "Manual"
-    url: /manuals/
-  - title: "News"
-    url: /year-archive/
-  - title: "Q & A"
-    url: /qa/
-  - title: "Download"
-    url: /download/
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
+    url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  - title: "解説"
+    url: /paper/
+  # - title: "Sitemap"
+  #   url: /sitemap/
 
 # documentation links
-analysis:
+paper:
   - title: Getting Started
     children:
-      - title: "What's isotope microscope"
-        url: /introduction/
-      - title: "試料の準備方法と形状"
-        url: /introduction/sample/
-      - title: "SIMSの原理"
+      - title: "Quick-Start Guide"
+        url: /docs/quick-start-guide/
+      - title: "Structure"
         url: /docs/structure/
-      - title: "SCAPSの原理"
+      - title: "Installation"
         url: /docs/installation/
-      - title: "SIMSでよく見るグラフ・統計"
-        url: /docs/installation/
-  - title: Analysis
+      - title: "Upgrading"
+        url: /docs/upgrading/
+  - title: Customization
     children:
-      - title: "概要"
-        url: /analysis/
-      - title: "データを開いてみる・セーブする"
-        url: /analysis/open_data/
-      - title: "像を見やすくする"
-        url: /analysis/b_c_lut/
-      - title: "同位体像の位置を合わせる"
-        url: /analysis/translate/
-      - title: "roiを使って統計する"
-        url: /analysis/roi/
-      - title: "imageを演算する"
-        url: /analysis/perser/
-      - title: "stackを使いこなす"
-        url: /analysis/stack_3d/
-  - title: Manuals
+      - title: "Configuration"
+        url: /docs/configuration/
+      - title: "Overriding Theme Defaults"
+        url: /docs/overriding-theme-defaults/
+      - title: "Navigation"
+        url: /docs/navigation/
+      - title: "UI Text"
+        url: /docs/ui-text/
+      - title: "Authors"
+        url: /docs/authors/
+      - title: "Layouts"
+        url: /docs/layouts/
+  - title: Content
     children:
-      - title: "概要"
-        url: /manuals/
-      - title: "ACE600"
-        url: /_pages/manual/contents/ace600.pdf
-  - title: Download
+      - title: "Working with Posts"
+        url: /docs/posts/
+      - title: "Working with Pages"
+        url: /docs/pages/
+      - title: "Working with Collections"
+        url: /docs/collections/
+      - title: "Helpers"
+        url: /docs/helpers/
+      - title: "Utility Classes"
+        url: /docs/utility-classes/
+  - title: Extras
     children:
-      - title: "ImageJ tools-IMSview"
-        url: /download/
+      - title: "Stylesheets"
+        url: /docs/stylesheets/
+      - title: "JavaScript"
+        url: /docs/javascript/
   - title: Meta
     children:
-      - title: "Q &amp; A"
-        url: /qa/
-      - title: "ページ更新の方法"
+      - title: "History"
+        url: /docs/history/
+      - title: "Contributing"
         url: /docs/contributing/
-      - title: "Contributors"
-        url: /docs/contributing/
+      - title: "Old 2.2 Docs"
+        url: /docs/docs-2-2/
+      - title: "License"
+        url: /docs/license/
       - title: "Terms &amp; Privacy Policy"
         url: /terms/

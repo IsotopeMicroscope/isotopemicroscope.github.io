@@ -16,23 +16,23 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ja-JP"
-title                    : "同位体顕微鏡＠北海道大学"
+title                    : "geophysica"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hokudai SIMS"
-description              : "同位体顕微鏡の情報共有を行っています。"
-url                      : https://isotopemicroscope.github.io/iil/
+name                     : "Shoh Tagawa"
+description              : "An amazing website."
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo.jpg"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : isotopemicroscope
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -52,17 +52,17 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : true #false (default)
-search_full_content      : true #false (default)
-search_provider          : algolia #lunr, algolia, google 
+search                   : # true, false (default)
+search_full_content      : # true, false (default)
+search_provider          : # lunr (default), algolia, google
 algolia:
-  application_id         : D63IMMERXO
-  index_name             : iil
-  search_only_api_key    : 11c0e82757424e1d21176cc6dc8d8658
+  application_id         : # YOUR_APPLICATION_ID
+  index_name             : # YOUR_INDEX_NAME
+  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 google:
-  search_engine_id       : a7036f080058a8d7f
-  instant_search         : true # false (default), 
+  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
+  instant_search         : # false (default), true
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -94,23 +94,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Naoya Sakamoto"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Cosmochemisy"
-  location         : "Sapporo, Japan"
-  email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "http://vigarano.ep.sci.hokudai.ac.jp/naoya/"
-
-author:
   name             : "Shoh Tagawa"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "SIMS user - High pressure geochemist"
+  bio              : "High pressure geochemist"
   location         : "Tokyo, Japan"
   email            :
   links:
@@ -120,16 +106,40 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
-    - label: "坂本直哉"
+    - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: http://vigarano.ep.sci.hokudai.ac.jp/naoya/
-    - label: "北大 IIL"
+      # url:
+    - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: https://iil.cris.hokudai.ac.jp/
+      # url:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url:
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url:
 
 
 # Reading Files
@@ -267,6 +277,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: # true
       share: true
       related: true
