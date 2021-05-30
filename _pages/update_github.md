@@ -73,9 +73,30 @@ sidebar: # Don't touch.
 ```
 
 ### 解説動画  
-動画1) VScode・Github desktopの導入まで   
+#### 動画1) VScode・Github desktopの導入まで   
 {% include video id="1LCNpWuU1HNorvVph6WvO24_iFiMeVjn3" provider="google-drive" %}
-動画2) 上記ソフトウェアを利用したファイルの更新まで   
+#### 動画2) 上記ソフトウェアを利用したファイルの更新まで   
 {% include video id="1x2jczeMgkRVKvujIuMFebOBjDbMZG8tf" provider="google-drive" %}
 
 ※pull requestの方法は，後日更新します．   
+
+#### 動画 おまけ) Localでgit hub pagesを確認しよう!
+この動画では，githubへpushせずとも，手元でページを確認できる方法を紹介しています．とりあえずは，windowsユーザー向けの紹介です．  
+{% include video id="1SEjd1LCqznSz5uVg4lh6nxl7wTYO_h6d" provider="google-drive" %}
+
+参考リンク：   
+1. [Jekyll on Windows](https://jekyllrb.com/docs/installation/windows/)   
+2. [RubyInstaller for 2.7.2-1](https://rubyinstaller.org/2020/10/06/rubyinstaller-2.7.2-1-2.6.6-2-and-2.5.8-2-released.html)   
+
+コマンドは，ページのおいてあるフォルダへ"cd"したあと，下記を打つだけOKです．
+```
+bundle update jekyll
+bundle install
+bundle exec jekyll serve
+```
+
+なお，2回目以降は，最後の行 "bundle exec jekyll serve"を打つだけでOKです．   
+
+**Watch Out!**   
+Windowsの場合には，jekyll serve中にローカルサイトのコードを変えても，自動的には反映されない場合があります ([Auto Regenerationについて](https://jekyllrb.com/docs/installation/windows/#auto-regeneration))．※私の手元ではVS codeで保存すると，自動で更新されています．
+{: .notice--info}  
