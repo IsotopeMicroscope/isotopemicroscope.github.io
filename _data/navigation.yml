@@ -20,13 +20,13 @@ analysis:
       - title: "What's isotope microscope"
         url: /introduction/
       - title: "試料の準備方法と形状"
-        url: /introduction/sample/
+        url: 
       - title: "SIMSの原理"
-        url: /docs/structure/
+        url: 
       - title: "SCAPSの原理"
-        url: /docs/installation/
+        url: 
       - title: "SIMSでよく見るグラフ・統計"
-        url: /docs/installation/
+        url: 
   - title: Analysis
     children:
       - title: "概要"
@@ -38,11 +38,11 @@ analysis:
       - title: "同位体像の位置を合わせる"
         url: /analysis/translate/
       - title: "roiを使って統計する"
-        url: /analysis/roi/
+        url: 
       - title: "imageを演算する"
-        url: /analysis/perser/
+        url: 
       - title: "stackを使いこなす"
-        url: /analysis/stack_3d/
+        url:
   - title: Manuals
     children:
       - title: "概要"
@@ -60,6 +60,6 @@ analysis:
       - title: "ページ更新の方法"
         url: /update/
       - title: "Contributors"
-        url: /docs/contributing/
+        url: 
       - title: "Terms &amp; Privacy Policy"
-        url: /terms/
+        url: 
