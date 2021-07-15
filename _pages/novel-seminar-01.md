@@ -58,13 +58,13 @@ PC-IR図
 
 ・Yoshizaki T. Composition and formation of the terrestrial planets. Doctoral dissertation, Tohoku U. (2021).
 
-・McDonough W.F., Yoshizaki T. Terrestrial planet compositions controlled by accretion disk magnetic field. Prog Earth Planet Sci 8, 39 (2021).
+・Yoshizaki, T., McDonough, W.F.  Earth and Mars–Distinct inner solar system products. Chemie der Erde 125746-125746 (2021).
 
 ・Yoshizaki, T., Ash, R.D., Lipella, M.D., Yokoyama, T., McDonough, W.F. Variable refractory lithophile element compositions of planetary building blocks: Insights from components of enstatite chondrites. Geochim. cosmochim. acta 308, 173-187 (2021).
 
-・Yoshizaki, T., McDonough, W.F.  Earth and Mars–Distinct inner solar system products. Chemie der Erde 125746-125746 (2021).
-
 ・Yoshizaki, T., McDonough, W.F.  The composition of Mars. Geochim. cosmochim. acta 273, 137-162 (2020).
+
+・McDonough W.F., Yoshizaki T. Terrestrial planet compositions controlled by accretion disk magnetic field. Prog Earth Planet Sci 8, 39 (2021).
 
 ・
 
