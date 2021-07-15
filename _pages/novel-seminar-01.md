@@ -35,7 +35,7 @@ PC-IR図
 
 ・Corgne A., Liebske C., Wood B.J., Rubie D.C., Frost D.J. Silicate perovskite-melt partitioning of trace elements and geochemical signature of a deep perovskitic reservoir. Geochim. cosmochim. acta, 69, 485-496 (2005).
 
-・
+・Blundy J.,  Wood B. Partitioning of trace elements between crystals and melts. Earth planet. sci. lettL, 210, 383-397, (2003).
 
 ・
 
