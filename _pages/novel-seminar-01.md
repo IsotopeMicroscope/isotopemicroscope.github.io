@@ -56,7 +56,7 @@ PC-IR図
 
 惑星形成
 
-・Yoshizaki T. Doctoral dissertation (2021).
+・Yoshizaki T. Composition and formation of the terrestrial planets. Doctoral dissertation, Tohoku U. (2021).
 
 ・McDonough W.F., Yoshizaki T. Terrestrial planet compositions controlled by accretion disk magnetic field. Prog Earth Planet Sci 8, 39 (2021).
 
