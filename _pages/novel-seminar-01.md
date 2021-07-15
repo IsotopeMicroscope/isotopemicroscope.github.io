@@ -15,12 +15,63 @@ header:
 第一回目は、ノーベル化学賞「元素分配の研究」について議論します。
 
 吉崎昴博士による惑星形成時の元素分配の話題提供から、あらゆる物質中の元素の振る舞いを解明する、という研究でノーベル賞を獲得するにはどうすれば良いか議論します。
+
+##### 事前準備
+活発な議論を行うため、参加者は前提となる下記文献について理解しておくことが望ましい。
+
+PC-IR図
+・N. Onuma, H. Higuchi, H. Wakita and H. Nagasawa: Earth Planet Sci Lett., 5, 47 (1968).
+・R. D. Shannon: Acta Cryst. A32, 751 (1976).
+・Y. Matsui, N. Onuma, H. Nagasawa, H. Higuchi and S.Banno: Bull. Soc. fr. Mineral. Cristallogr, 100, 315 (1977).
+・
+・
+・
+・
+・
+・
+・
+
+惑星形成論
+・Yoshizaki,T, Doctoral dissertation (2021)
+・McDonough, W.F., Yoshizaki, T. Terrestrial planet compositions controlled by accretion disk magnetic field. Prog Earth Planet Sci 8, 39 (2021).
+・Yoshizaki, T., Ash, R.D., Lipella, M.D., Yokoyama, T., McDonough, W.F. Variable refractory lithophile element compositions of planetary building blocks: Insights from components of enstatite chondrites. Geochim. cosmochim. acta 308, 173-187 (2021)
+・Yoshizaki, T., McDonough, W.F.  Earth and Mars – Distinct inner solar system products. Chemie der Erde 125746-125746 (2021).
+・Yoshizaki, T., McDonough, W.F.  The composition of Mars. Geochim. cosmochim. acta 273, 137-162 (2020).
+・
+・
+・
+・
+・
+
+隕石
+・
+・
+・
+・
+・
+・
+・
+・
+・
+
+SIMS, EPMA
+・
+・
+・
+・
+・
+・
+・
+・
+・
+
+
    
 ##### 日時・場所  
 日時：２０２１年８月１３日(金) ９：３０ ~    
 場所：北海道大学 創成研究機構 [アクセス](https://www.cris.hokudai.ac.jp/wp/wp-content/uploads/2021/03/map-1.pdf)   
 
-##### 場所
+##### 参加費等
 参加費：参加費２万円程度（領収書出ます）   
 　※旅費の補助はありません    
 人数：２０人程度   
