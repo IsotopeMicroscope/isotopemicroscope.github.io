@@ -31,7 +31,7 @@ PC-IR図
 
 ・Yurimoto H., Sueno S. Anion and cation partitioning between three pyroxenes, chrome spinel phenocrysts and the host boninite magma: an ion microprobe study. Geochem. J., 21, 85-104 (1987).
 
-・Yurimoto H. Anion and cation partitioning between rock-forming mineral phases. Doctral dissertation, Tsukuba U. (1984).
+・Yurimoto H. Anion and cation partitioning between rock-forming mineral phases. Doctoral dissertation, Tsukuba U. (1984).
 
 ・Hirose K., Shimizu N., Westrenen W.V., Fei Y. Trace element partitioning in Earth’s lower mantle and implications for geochemical consequences of partial melting at the core–mantle boundary. Phys. earth planet. inter., 146, 249-260 (2004).
 
