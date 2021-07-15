@@ -23,7 +23,7 @@ PC-IR図
 
 ・Onuma N., Higuchi H., Wakita H., Nagasawa H. Earth Planet Sci Lett., 5, 47 (1968).
 
-・RINGWOOD A.E. Some aspects of the minor element chemistry of lunar mare basalt. Moon 12, 127-157 (1975).
+・Ringwood A.E. Some aspects of the minor element chemistry of lunar mare basalt. Moon 12, 127-157 (1975).
 
 ・Shannon R.D. Acta Cryst. A32, 751 (1976).
 
