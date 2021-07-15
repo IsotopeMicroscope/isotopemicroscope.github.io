@@ -21,13 +21,13 @@ header:
 
 PC-IR図
 
-・Onuma N., Higuchi H., Wakita H., Nagasawa H. Earth Planet Sci Lett., 5, 47 (1968).
+・Onuma N., Higuchi H., Wakita H., Nagasawa H. Trace element partition between two pyroxenes and the host lava. Earth Planet Sci Lett., 5, 47 (1968).
 
 ・Ringwood A.E. Some aspects of the minor element chemistry of lunar mare basalt. Moon 12, 127-157 (1975).
 
-・Shannon R.D. Acta Cryst. A32, 751 (1976).
+・Shannon R.D. Revised effective ionic radii and systematic studies of interatomic distances in halides and chalcogenides. Acta Cryst. A32, 751 (1976).
 
-・Matsui Y., Onuma N., Nagasawa H., Higuchi H. Banno S. Bull. Soc. fr. Mineral. Cristallogr, 100, 315 (1977).
+・Matsui Y., Onuma N., Nagasawa H., Higuchi H. Banno S. Crystal structure control in trace element partition between crystal and magma. Bull. Soc. fr. Mineral. Cristallogr, 100, 315 (1977).
 
 ・Yurimoto H., Sueno S. Anion and cation partitioning between three pyroxenes, chrome spinel phenocrysts and the host boninite magma: an ion microprobe study, Geochem J., 21, 85-104 (1987).
 
@@ -50,7 +50,7 @@ PC-IR図
 
 ・Yoshizaki, T., Ash, R.D., Lipella, M.D., Yokoyama, T., McDonough, W.F. Variable refractory lithophile element compositions of planetary building blocks: Insights from components of enstatite chondrites. Geochim. cosmochim. acta 308, 173-187 (2021)
 
-・Yoshizaki, T., McDonough, W.F.  Earth and Mars – Distinct inner solar system products. Chemie der Erde 125746-125746 (2021).
+・Yoshizaki, T., McDonough, W.F.  Earth and Mars–Distinct inner solar system products. Chemie der Erde 125746-125746 (2021).
 
 ・Yoshizaki, T., McDonough, W.F.  The composition of Mars. Geochim. cosmochim. acta 273, 137-162 (2020).
 
