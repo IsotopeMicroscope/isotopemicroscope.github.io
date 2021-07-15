@@ -23,13 +23,13 @@ PC-IR図
 
 ・Onuma N., Higuchi H., Wakita H., Nagasawa H. Earth Planet Sci Lett., 5, 47 (1968).
 
+・RINGWOOD A.E. Some aspects of the minor element chemistry of lunar mare basalt. Moon 12, 127-157 (1975).
+
 ・Shannon R.D. Acta Cryst. A32, 751 (1976).
 
 ・Matsui Y., Onuma N., Nagasawa H., Higuchi H. Banno S. Bull. Soc. fr. Mineral. Cristallogr, 100, 315 (1977).
 
 ・Yurimoto H., Sueno S. Anion and cation partitioning between three pyroxenes, chrome spinel phenocrysts and the host boninite magma: an ion microprobe study, Geochem J., 21, 85-104 (1987).
-
-・
 
 ・
 
