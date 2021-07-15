@@ -27,7 +27,7 @@ PC-IR図
 
 ・Y. Matsui, N. Onuma, H. Nagasawa, H. Higuchi and S.Banno: Bull. Soc. fr. Mineral. Cristallogr, 100, 315 (1977).
 
-・
+・H. Yurimoto, S. Sueno, Anion and cation partitioning between three pyroxenes, chrome spinel phenocrysts and the host boninite magma: an ion microprobe study, Geochem J., 21, 85-104 (1987) 
 
 ・
 
