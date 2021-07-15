@@ -35,7 +35,8 @@ PC-IR図
 
 ・
 
-惑星形成論
+
+惑星形成
 
 ・Yoshizaki,T, Doctoral dissertation (2021)
 
@@ -55,6 +56,7 @@ PC-IR図
 
 ・
 
+
 隕石
 
 ・
@@ -66,6 +68,7 @@ PC-IR図
 ・
 
 ・
+
 
 SIMS, EPMA
 
