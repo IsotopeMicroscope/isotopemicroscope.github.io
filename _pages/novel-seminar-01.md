@@ -37,7 +37,7 @@ PC-IR図
 
 ・Corgne A., Liebske C., Wood B.J., Rubie D.C., Frost D.J. Silicate perovskite-melt partitioning of trace elements and geochemical signature of a deep perovskitic reservoir. Geochim. cosmochim. acta, 69, 485-496 (2005).[Link](https://www.sciencedirect.com/science/article/pii/S0016703704005381?via%3Dihub)
 
-・Blundy J.,  Wood B. Partitioning of trace elements between crystals and melts. Earth planet. sci. lettL, 210, 383-397, (2003). [Link](https://www.sciencedirect.com/science/article/pii/S0012821X03001298?via%3Dihub)
+・Blundy J.,  Wood B. Partitioning of trace elements between crystals and melts. Earth planet. sci. lettL, 210, 383-397 (2003).
 
 ・
 
@@ -56,7 +56,7 @@ PC-IR図
 
 惑星形成
 
-・Yoshizaki T. Doctoral dissertation (2021).
+・Yoshizaki T. Composition and formation of the terrestrial planets. Doctoral dissertation, Tohoku U. (2021).
 
 ・McDonough W.F., Yoshizaki T. Terrestrial planet compositions controlled by accretion disk magnetic field. Prog Earth Planet Sci 8, 39 (2021). [Link](https://progearthplanetsci.springeropen.com/articles/10.1186/s40645-021-00429-4)
 
@@ -65,6 +65,8 @@ PC-IR図
 ・Yoshizaki, T., McDonough, W.F.  Earth and Mars–Distinct inner solar system products. Chemie der Erde 125746-125746 (2021). [Link](https://www.sciencedirect.com/science/article/pii/S0009281921000088)
 
 ・Yoshizaki, T., McDonough, W.F.  The composition of Mars. Geochim. cosmochim. acta 273, 137-162 (2020).[Link](https://www.sciencedirect.com/science/article/pii/S0016703720300235)
+
+・McDonough W.F., Yoshizaki T. Terrestrial planet compositions controlled by accretion disk magnetic field. Prog Earth Planet Sci 8, 39 (2021).
 
 ・
 
