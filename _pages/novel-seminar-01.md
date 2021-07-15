@@ -7,7 +7,7 @@ comments: true
 sidebar: 
     nav: "analysis"
 header:
-      image: ./../assets/images/core-formation.jpg
+      image: ./../assets/images/Solvay_conference_1927.jpg
 ---
 ##### 概要 
 将来的にノーベル賞に該当しそうなトピックを紹介する研究会を「ノーベルセミナー」と第して開催いたします。    
