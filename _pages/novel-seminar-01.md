@@ -21,13 +21,13 @@ header:
 
 PC-IR図
 
-・N. Onuma, H. Higuchi, H. Wakita and H. Nagasawa: Earth Planet Sci Lett., 5, 47 (1968).
+・Onuma N., Higuchi H., Wakita H., Nagasawa H. Earth Planet Sci Lett., 5, 47 (1968).
 
-・R. D. Shannon: Acta Cryst. A32, 751 (1976).
+・Shannon R.D. Acta Cryst. A32, 751 (1976).
 
-・Y. Matsui, N. Onuma, H. Nagasawa, H. Higuchi and S.Banno: Bull. Soc. fr. Mineral. Cristallogr, 100, 315 (1977).
+・Matsui Y., Onuma N., Nagasawa H., Higuchi H. Banno S. Bull. Soc. fr. Mineral. Cristallogr, 100, 315 (1977).
 
-・H. Yurimoto, S. Sueno, Anion and cation partitioning between three pyroxenes, chrome spinel phenocrysts and the host boninite magma: an ion microprobe study, Geochem J., 21, 85-104 (1987) 
+・Yurimoto H., Sueno S. Anion and cation partitioning between three pyroxenes, chrome spinel phenocrysts and the host boninite magma: an ion microprobe study, Geochem J., 21, 85-104 (1987) 
 
 ・
 
@@ -44,9 +44,9 @@ PC-IR図
 
 惑星形成
 
-・Yoshizaki,T, Doctoral dissertation (2021)
+・Yoshizaki T. Doctoral dissertation (2021)
 
-・McDonough, W.F., Yoshizaki, T. Terrestrial planet compositions controlled by accretion disk magnetic field. Prog Earth Planet Sci 8, 39 (2021).
+・McDonough W.F., Yoshizaki T. Terrestrial planet compositions controlled by accretion disk magnetic field. Prog Earth Planet Sci 8, 39 (2021).
 
 ・Yoshizaki, T., Ash, R.D., Lipella, M.D., Yokoyama, T., McDonough, W.F. Variable refractory lithophile element compositions of planetary building blocks: Insights from components of enstatite chondrites. Geochim. cosmochim. acta 308, 173-187 (2021)
 
