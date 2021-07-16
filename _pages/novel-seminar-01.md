@@ -16,6 +16,10 @@ header:
 
 吉崎昴博士による惑星形成時の元素分配の話題提供から、あらゆる物質中の元素の振る舞いを解明する、という研究でノーベル賞を獲得するにはどうすれば良いか議論します。
 
+##### メモ帳  
+参加者は，どなたでも書き込むことが出来ます．事前質問候補の書き出しや，当日の議論，議事録等で使用します．     
+[Google Doc](https://docs.google.com/document/d/1MEb9pxN2EjgBp1fupNWzdJde9Pz8ja9dVj6yj1EheWg/edit?usp=sharing)   
+   
 
 ##### 事前質問リスト 
 
