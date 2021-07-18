@@ -102,7 +102,7 @@ header:
 
 ・Shimizu N., Semet M., Allègre C.J. Geochemical applications of quantitative  ion-microprobe  analysis. Geochimica et Cosmochimica Acta, 42, 1321-1334  (1978). [Link](https://doi.org/10.1016/0016-7037(78)90037-6)
 
-・Metson J.B., Bancroft G.M., McIntyre, N.S., Chauvin W.J. Suppression of molecular ions in the secondary ion mass spectra of minerals. Surf. Interface Anal. 5, 181-185 (1983). [Link](https://doi.org/10.1002/sia.740050503)
+・Shimizu N. Trace element incorporation into growing augite phenocryst. Nature 289, 575–577 (1981). [Link](https://doi.org/10.1038/289575a0)
 
 ・
 
