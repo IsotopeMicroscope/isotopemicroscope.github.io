@@ -63,8 +63,6 @@ header:
 
 ・Shaw D.M Trace elements in magmas: A theoretical treatment. Cambridge University Press (2007)
 
-・Wood B.J., Banno S. Garnet-orthopyroxene and orthopyroxene-clinopyroxene relationships in simple and complex systems. Contr. Mineral. and Petrol. 42, 109–124 (1973). [Link](https://doi.org/https://doi.org/10.1007/BF00371501)
-
 ・
 
 
@@ -99,14 +97,13 @@ header:
 ・
 
 
-
 ##### 分析手法
 
 ・Shimizu N., Semet M., Allègre C.J. Geochemical applications of quantitative  ion-microprobe  analysis. Geochim. cosmochim. acta 42, 1321-1334  (1978). [Link](https://doi.org/10.1016/0016-7037(78)90037-6)
 
 ・Shimizu N. Trace element incorporation into growing augite phenocryst. Nature 289, 575–577 (1981). [Link](https://doi.org/10.1038/289575a0)
 
-・
+・Wood B.J., Banno S. Garnet-orthopyroxene and orthopyroxene-clinopyroxene relationships in simple and complex systems. Contr. Mineral. and Petrol. 42, 109–124 (1973). [Link](https://doi.org/https://doi.org/10.1007/BF00371501)
 
 ・
 
