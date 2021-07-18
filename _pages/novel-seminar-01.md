@@ -51,19 +51,19 @@ header:
 
 ・Yurimoto H., Sueno S. Anion and cation partitioning between three pyroxenes, chrome spinel phenocrysts and the host boninite magma: an ion microprobe study. Geochem. J., 21, 85-104 (1987). [Link](https://doi.org/10.2343/geochemj.21.85)
 
-・Blundy J., Wood B. Prediction of crystal–melt partition coefficients from elastic moduli. Nature 372, 452–454 (1994). [Link](https://doi.org/10.1038/372452a0)
+・Blundy J.D., Wood B.J. Prediction of crystal–melt partition coefficients from elastic moduli. Nature 372, 452–454 (1994). [Link](https://doi.org/10.1038/372452a0)
 
-・Blundy J.,  Wood B. Partitioning of trace elements between crystals and melts. Earth planet. sci. lettL, 210, 383-397 (2003). [Link](https://doi.org/10.1016/S0012-821X(03)00129-8)
+・Blundy J.D.,  Wood B.J. Partitioning of trace elements between crystals and melts. Earth planet. sci. lettL, 210, 383-397 (2003). [Link](https://doi.org/10.1016/S0012-821X(03)00129-8)
 
 ・Hirose K., Shimizu N., Westrenen W.V., Fei Y. Trace element partitioning in Earth’s lower mantle and implications for geochemical consequences of partial melting at the core–mantle boundary. Phys. earth planet. inter., 146, 249-260 (2004). [Link](https://doi.org/10.1016/j.pepi.2002.11.001)
 
 ・Corgne A., Liebske C., Wood B.J., Rubie D.C., Frost D.J. Silicate perovskite-melt partitioning of trace elements and geochemical signature of a deep perovskitic reservoir. Geochim. cosmochim. acta, 69, 485-496 (2005). [Link](https://doi.org/10.1016/j.gca.2004.06.041)
 
-・Wood B., Blundy J. Trace element partitioning: the influences of ionic radius, cation charge, pressure and temperature. Treatise of Geochemistry 2nd edition. Vol 3 p421-448. Oxford: Elsevier (2014). [Link](https://doi.org/10.1016/B978-0-08-095975-7.00209-6)
+・Wood B.J., Blundy J.D. Trace element partitioning: the influences of ionic radius, cation charge, pressure and temperature. Treatise of Geochemistry 2nd edition. Vol 3 p421-448. Oxford: Elsevier (2014). [Link](https://doi.org/10.1016/B978-0-08-095975-7.00209-6)
 
 ・Shaw D.M Trace elements in magmas: A theoretical treatment. Cambridge University Press (2007)
 
-・
+・Wood B.J., Banno S. Garnet-orthopyroxene and orthopyroxene-clinopyroxene relationships in simple and complex systems. Contr. Mineral. and Petrol. 42, 109–124 (1973). [Link](https://doi.org/https://doi.org/10.1007/BF00371501)
 
 ・
 
