@@ -21,6 +21,14 @@ header:
 [Google Doc](https://docs.google.com/document/d/1MEb9pxN2EjgBp1fupNWzdJde9Pz8ja9dVj6yj1EheWg/edit?usp=sharing)   
 
 
+##### 現在のトピック  
+
+・地球の原材料は何か？
+
+・元素分配の理論的背景について
+
+
+
 ##### 事前文献リスト
 活発な議論を行うため、参加者は前提となる下記文献について理解しておくことが望ましい。
 
