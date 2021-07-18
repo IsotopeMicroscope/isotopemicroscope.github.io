@@ -57,7 +57,7 @@ header:
 
 ##### 惑星形成
 
-・Yoshizaki T. Composition and formation of the terrestrial planets. Doctoral dissertation, Tohoku U. (2021).
+・Yoshizaki T. Composition and formation of the terrestrial planets. Doctoral dissertation, Tohoku U. (2021).[Link](https://drive.google.com/file/d/13-485kYW5mofyx_kYDi5GjH8T_JYEaGo/view?usp=sharing)
 
 ・McDonough W.F., Yoshizaki T. Terrestrial planet compositions controlled by accretion disk magnetic field. Prog Earth Planet Sci 8, 39 (2021). [Link](https://doi.org/10.1186/s40645-021-00429-4)
 
