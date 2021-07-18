@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title : "第1回 ノーベルセミナー"
+title : "第１回 ノーベルセミナー"
 permalink: /novel-2021s-01/
 comments: true
 sidebar: 
