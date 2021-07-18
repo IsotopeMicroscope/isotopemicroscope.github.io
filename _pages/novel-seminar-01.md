@@ -59,7 +59,7 @@ header:
 
 ・Corgne A., Liebske C., Wood B.J., Rubie D.C., Frost D.J. Silicate perovskite-melt partitioning of trace elements and geochemical signature of a deep perovskitic reservoir. Geochim. cosmochim. acta, 69, 485-496 (2005). [Link](https://doi.org/10.1016/j.gca.2004.06.041)
 
-・Wood B., Blundy J. Trace element partitioning: the influences of ionic radius, cation charge, pressure and temperature. Treatise of Geochemistry 2nd edition. Vol 3 p421-448. Oxford: Elsevier (2014)
+・Wood B., Blundy J. Trace element partitioning: the influences of ionic radius, cation charge, pressure and temperature. Treatise of Geochemistry 2nd edition. Vol 3 p421-448. Oxford: Elsevier (2014). [Link](https://doi.org/10.1016/B978-0-08-095975-7.00209-6)
 
 ・Shaw D.M Trace elements in magmas: A theoretical treatment. Cambridge University Press (2007)
 
