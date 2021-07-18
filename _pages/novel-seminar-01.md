@@ -34,9 +34,9 @@ PC-IR図
 
 ・Matsui Y., Onuma N., Nagasawa H., Higuchi H. Banno S. Crystal structure control in trace element partition between crystal and magma. Bull. Soc. fr. Mineral. Cristallogr, 100, 315 (1977). [Link](https://www.persee.fr/docAsPDF/bulmi_0037-9328_1977_num_100_6_7155.pdf)
 
-・Yurimoto H., Sueno S. Anion and cation partitioning between three pyroxenes, chrome spinel phenocrysts and the host boninite magma: an ion microprobe study. Geochem. J., 21, 85-104 (1987). [Link](https://www.jstage.jst.go.jp/article/geochemj1966/21/3/21_3_85/_article)
-
 ・Yurimoto H. Anion and cation partitioning between rock-forming mineral phases. Doctral dissertation, Tsukuba U. (1984). [Link](https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/32893/1/%e8%bf%bd13_%e5%9c%a6%e6%9c%ac%e5%b0%9a%e7%be%a9.pdf)
+
+・Yurimoto H., Sueno S. Anion and cation partitioning between three pyroxenes, chrome spinel phenocrysts and the host boninite magma: an ion microprobe study. Geochem. J., 21, 85-104 (1987). [Link](https://www.jstage.jst.go.jp/article/geochemj1966/21/3/21_3_85/_article)
 
 ・Hirose K., Shimizu N., Westrenen W.V., Fei Y. Trace element partitioning in Earth’s lower mantle and implications for geochemical consequences of partial melting at the core–mantle boundary. Phys. earth planet. inter., 146, 249-260 (2004). [Link](https://www.sciencedirect.com/science/article/pii/S0031920104001220)
 
