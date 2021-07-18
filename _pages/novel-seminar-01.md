@@ -86,6 +86,17 @@ header:
 
 ・
 
+##### 隕石
+
+・Alexander, C.M.O’D. Quantitative models for the elemental and isotopic fractionations in chondrites: The carbonaceous chondrites. Geochim. cosmochim. acta 254, 277–309 (2019).[Link](https://doi.org/10.1016/j.gca.2019.02.008)
+
+・Alexander, C.M.O’D. Quantitative models for the elemental and isotopic fractionations in the chondrites: The non-carbonaceous chondrites. Geochim. cosmochim. acta 254, 246–276 (2019).[Link](https://doi.org/10.1016/j.gca.2019.01.026)
+
+・
+
+・
+
+
 
 ##### 分析手法
 
