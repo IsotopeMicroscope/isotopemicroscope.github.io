@@ -24,7 +24,7 @@ header:
 ##### 事前文献リスト
 活発な議論を行うため、参加者は前提となる下記文献について理解しておくことが望ましい。
 
-PC-IR図
+##### PC-IR図
 
 ・Onuma N., Higuchi H., Wakita H., Nagasawa H. Trace element partition between two pyroxenes and the host lava. Earth Planet Sci Lett., 5, 47 (1968). [Link](https://www.sciencedirect.com/science/article/pii/S0012821X6880010X)
 
@@ -59,7 +59,7 @@ PC-IR図
 ・
 
 
-惑星形成
+##### 惑星形成
 
 ・Yoshizaki T. Composition and formation of the terrestrial planets. Doctoral dissertation, Tohoku U. (2021).
 
@@ -71,7 +71,6 @@ PC-IR図
 
 ・Yoshizaki, T., McDonough, W.F.  The composition of Mars. Geochim. cosmochim. acta 273, 137-162 (2020).[Link](https://www.sciencedirect.com/science/article/pii/S0016703720300235)
 
-
 ・
 
 ・
@@ -81,7 +80,7 @@ PC-IR図
 ・
 
 
-SIMS, EPMA
+##### 分析手法
 
 ・Metson J.B., Bancroft G.M., McIntyre, N.S., Chauvin W.J. Suppression of molecular ions in the secondary ion mass spectra of minerals. Surf. Interface Anal. 5, 181-185 (1983). [Link](https://doi.org/10.1002/sia.740050503)
 
