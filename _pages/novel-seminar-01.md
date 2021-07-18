@@ -51,6 +51,8 @@ header:
 
 ・Yurimoto H., Sueno S. Anion and cation partitioning between three pyroxenes, chrome spinel phenocrysts and the host boninite magma: an ion microprobe study. Geochem. J., 21, 85-104 (1987). [Link](https://doi.org/10.2343/geochemj.21.85)
 
+・Blundy J., Wood B. Prediction of crystal–melt partition coefficients from elastic moduli. Nature 372, 452–454 (1994). [Link](https://doi.org/10.1038/372452a0)
+
 ・Hirose K., Shimizu N., Westrenen W.V., Fei Y. Trace element partitioning in Earth’s lower mantle and implications for geochemical consequences of partial melting at the core–mantle boundary. Phys. earth planet. inter., 146, 249-260 (2004). [Link](https://doi.org/10.1016/j.pepi.2002.11.001)
 
 ・Corgne A., Liebske C., Wood B.J., Rubie D.C., Frost D.J. Silicate perovskite-melt partitioning of trace elements and geochemical signature of a deep perovskitic reservoir. Geochim. cosmochim. acta, 69, 485-496 (2005). [Link](https://doi.org/10.1016/j.gca.2004.06.041)
