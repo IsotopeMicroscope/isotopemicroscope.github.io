@@ -26,23 +26,25 @@ header:
 
 ##### PC-IR図
 
-・Onuma N., Higuchi H., Wakita H., Nagasawa H. Trace element partition between two pyroxenes and the host lava. Earth Planet Sci Lett., 5, 47 (1968). [Link](https://www.sciencedirect.com/science/article/pii/S0012821X6880010X)
+・Nagasawa H. Trace element partition coefficient in ionic crystals. Science 152, 767-769 (1966). [Link](https://doi.org/10.1126/science.152.3723.767)
 
-・Ringwood A.E. Some aspects of the minor element chemistry of lunar mare basalt. Moon 12, 127-157 (1975). [Link](https://link.springer.com/article/10.1007/BF00577874)
+・Onuma N., Higuchi H., Wakita H., Nagasawa H. Trace element partition between two pyroxenes and the host lava. Earth Planet Sci Lett., 5, 47 (1968). [Link](https://doi.org/10.1016/S0012-821X(68)80010-X)
 
-・Shannon R.D. Revised effective ionic radii and systematic studies of interatomic distances in halides and chalcogenides. Acta Cryst. A32, 751 (1976). [Link](https://onlinelibrary.wiley.com/doi/abs/10.1107/S0567739476001551)
+・Ringwood A.E. Some aspects of the minor element chemistry of lunar mare basalts. The Moon 12, 127–157 (1975).  [Link](https://doi.org/10.1007/BF00577874)
 
-・Matsui Y., Onuma N., Nagasawa H., Higuchi H. Banno S. Crystal structure control in trace element partition between crystal and magma. Bull. Soc. fr. Mineral. Cristallogr, 100, 315 (1977). [Link](https://www.persee.fr/docAsPDF/bulmi_0037-9328_1977_num_100_6_7155.pdf)
+・Shannon R.D. Revised effective ionic radii and systematic studies of interatomic distances in halides and chalcogenides. Acta Cryst. A32, 751 (1976). [Link](https://doi.org/10.1107/S0567739476001551)
+
+・Matsui Y., Onuma N., Nagasawa H., Higuchi H. Banno S. Crystal structure control in trace element partition between crystal and magma. Bull. Soc. fr. Mineral. Cristallogr, 100, 315 (1977). [Link](https://doi.org/10.3406/bulmi.1977.7155)
 
 ・Yurimoto H. Anion and cation partitioning between rock-forming mineral phases. Doctoral dissertation, Tsukuba U. (1984). [Link](https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/32893/1/%e8%bf%bd13_%e5%9c%a6%e6%9c%ac%e5%b0%9a%e7%be%a9.pdf)
 
-・Yurimoto H., Sueno S. Anion and cation partitioning between three pyroxenes, chrome spinel phenocrysts and the host boninite magma: an ion microprobe study. Geochem. J., 21, 85-104 (1987). [Link](https://www.jstage.jst.go.jp/article/geochemj1966/21/3/21_3_85/_article)
+・Yurimoto H., Sueno S. Anion and cation partitioning between three pyroxenes, chrome spinel phenocrysts and the host boninite magma: an ion microprobe study. Geochem. J., 21, 85-104 (1987). [Link](https://doi.org/10.2343/geochemj.21.85)
 
-・Hirose K., Shimizu N., Westrenen W.V., Fei Y. Trace element partitioning in Earth’s lower mantle and implications for geochemical consequences of partial melting at the core–mantle boundary. Phys. earth planet. inter., 146, 249-260 (2004). [Link](https://www.sciencedirect.com/science/article/pii/S0031920104001220)
+・Hirose K., Shimizu N., Westrenen W.V., Fei Y. Trace element partitioning in Earth’s lower mantle and implications for geochemical consequences of partial melting at the core–mantle boundary. Phys. earth planet. inter., 146, 249-260 (2004). [Link](https://doi.org/10.1016/j.pepi.2002.11.001)
 
-・Corgne A., Liebske C., Wood B.J., Rubie D.C., Frost D.J. Silicate perovskite-melt partitioning of trace elements and geochemical signature of a deep perovskitic reservoir. Geochim. cosmochim. acta, 69, 485-496 (2005). [Link](https://www.sciencedirect.com/science/article/pii/S0016703704005381?via%3Dihub)
+・Corgne A., Liebske C., Wood B.J., Rubie D.C., Frost D.J. Silicate perovskite-melt partitioning of trace elements and geochemical signature of a deep perovskitic reservoir. Geochim. cosmochim. acta, 69, 485-496 (2005). [Link](https://doi.org/10.1016/j.gca.2004.06.041)
 
-・Blundy J.,  Wood B. Partitioning of trace elements between crystals and melts. Earth planet. sci. lettL, 210, 383-397 (2003). [Link](https://www.sciencedirect.com/science/article/pii/S0012821X03001298?via%3Dihub)
+・Blundy J.,  Wood B. Partitioning of trace elements between crystals and melts. Earth planet. sci. lettL, 210, 383-397 (2003). [Link](https://doi.org/10.1016/S0012-821X(03)00129-8)
 
 ・
 
@@ -57,13 +59,13 @@ header:
 
 ・Yoshizaki T. Composition and formation of the terrestrial planets. Doctoral dissertation, Tohoku U. (2021).
 
-・McDonough W.F., Yoshizaki T. Terrestrial planet compositions controlled by accretion disk magnetic field. Prog Earth Planet Sci 8, 39 (2021). [Link](https://progearthplanetsci.springeropen.com/articles/10.1186/s40645-021-00429-4)
+・McDonough W.F., Yoshizaki T. Terrestrial planet compositions controlled by accretion disk magnetic field. Prog Earth Planet Sci 8, 39 (2021). [Link](https://doi.org/10.1186/s40645-021-00429-4)
 
-・Yoshizaki, T., Ash, R.D., Lipella, M.D., Yokoyama, T., McDonough, W.F. Variable refractory lithophile element compositions of planetary building blocks: Insights from components of enstatite chondrites. Geochim. cosmochim. acta 308, 173-187 (2021). [Link](https://www.researchgate.net/profile/Takashi-Yoshizaki/publication/346377762_Variable_refractory_lithophile_element_compositions_of_planetary_building_blocks/links/5fbf4020a6fdcc6cc669b55d/Variable-refractory-lithophile-element-compositions-of-planetary-building-blocks.pdf)
+・Yoshizaki, T., Ash, R.D., Lipella, M.D., Yokoyama, T., McDonough, W.F. Variable refractory lithophile element compositions of planetary building blocks: Insights from components of enstatite chondrites. Geochim. cosmochim. acta 308, 173-187 (2021). [Link](https://doi.org/10.1016/j.gca.2021.05.057)
 
-・Yoshizaki, T., McDonough, W.F. Earth and Mars–Distinct inner solar system products. Chemie der Erde 125746-125746 (2021). [Link](https://www.sciencedirect.com/science/article/pii/S0009281921000088)
+・Yoshizaki, T., McDonough, W.F. Earth and Mars–Distinct inner solar system products. Chemie der Erde 125746-125746 (2021). [Link](https://doi.org/10.1016/j.chemer.2021.125746)
 
-・Yoshizaki, T., McDonough, W.F.  The composition of Mars. Geochim. cosmochim. acta 273, 137-162 (2020).[Link](https://www.sciencedirect.com/science/article/pii/S0016703720300235)
+・Yoshizaki, T., McDonough, W.F.  The composition of Mars. Geochim. cosmochim. acta 273, 137-162 (2020).[Link](https://doi.org/10.1016/j.gca.2020.01.011)
 
 ・
 
