@@ -100,7 +100,7 @@ header:
 
 ##### 分析手法
 
-・Shimizu N., Semet M., Allègre C.J. Geochemical applications of quantitative  ion-microprobe  analysis. Geochimica et Cosmochimica Acta, 42, 1321-1334  (1978). [Link](https://doi.org/10.1016/0016-7037(78)90037-6)
+・Shimizu N., Semet M., Allègre C.J. Geochemical applications of quantitative  ion-microprobe  analysis. Geochim. cosmochim. acta 42, 1321-1334  (1978). [Link](https://doi.org/10.1016/0016-7037(78)90037-6)
 
 ・Shimizu N. Trace element incorporation into growing augite phenocryst. Nature 289, 575–577 (1981). [Link](https://doi.org/10.1038/289575a0)
 
