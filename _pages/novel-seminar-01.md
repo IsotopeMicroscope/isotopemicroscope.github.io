@@ -81,22 +81,10 @@ PC-IR図
 ・
 
 
-隕石
-
-・
-
-・
-
-・
-
-・
-
-・
-
-
 SIMS, EPMA
 
-・
+・Metson J.B., Bancroft G.M., McIntyre, N.S., Chauvin W.J. Suppression of molecular ions in the secondary ion mass spectra of minerals. Surf. Interface Anal. 5, 181-185 (1983). [Link](https://doi.org/10.1002/sia.740050503)
+
 
 ・
 
