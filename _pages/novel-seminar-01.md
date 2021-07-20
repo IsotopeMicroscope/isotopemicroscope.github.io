@@ -103,6 +103,11 @@ header:
 
 ・Wood B.J., Banno S. Garnet-orthopyroxene and orthopyroxene-clinopyroxene relationships in simple and complex systems. Contr. Mineral. and Petrol. 42, 109–124 (1973). [Link](https://doi.org/https://doi.org/10.1007/BF00371501)
 
+・坂本直哉, 同位体顕微鏡で探る太陽系, 日立ハイテク Sientific Instrument News 6・2 (2021). [Link](https://www.hitachi-hightech.com/jp/sinews/reports/6220211/)
+
+・坂本直哉, 二次元イオン検出器 SCAPS, 質量分析学会 検出器特集号 (2021). [Link](http://vigarano.ep.sci.hokudai.ac.jp/naoya/scaps.pdf)プレプリント
+
+
 ・
 
  
