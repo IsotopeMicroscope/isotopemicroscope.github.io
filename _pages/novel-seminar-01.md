@@ -76,7 +76,7 @@ header:
 
 ・Yoshizaki, T., McDonough, W.F.  The composition of Mars. Geochim. cosmochim. acta 273, 137-162 (2020).[Link](https://doi.org/10.1016/j.gca.2020.01.011)
 
-・
+・海老原充, 元素の太陽系存在度と地球存在度, 地質ニュース (1984). [Link](https://www.gsj.jp/data/chishitsunews/84_09_02.pdf)
 
 ・
 
