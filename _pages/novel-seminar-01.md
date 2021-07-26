@@ -111,7 +111,7 @@ header:
 
  
 ##### 日時・場所  
-日時：２０２１年８月２２日以降に延期
+日時：２０２１年８月２２日以降に延期  
 場所：北海道大学 創成研究機構 [アクセス](https://www.cris.hokudai.ac.jp/wp/wp-content/uploads/2021/03/map-1.pdf)   
 
 ##### 参加費等
