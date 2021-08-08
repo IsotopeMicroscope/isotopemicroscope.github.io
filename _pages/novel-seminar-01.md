@@ -44,7 +44,7 @@ header:
 
 ##### PC-IR図
 
-・Nagasawa H. Trace element partition coefficient in ionic crystals. Science 152, 767-769 (1966). [Link](https://doi.org/10.1126/science.152.3723.767)
+・Nagasawa H. Trace element partition coefficient in ionic crystals. Science 152, 767-769 (1966). [Link](https://doi.org/10.1126/science.152.3723.767) [メモ](https://docs.google.com/document/d/1lHu3u0s4wpmPDpg8LMm6fMmCBRzweNFy6_kTosTuOMk/edit?usp=sharing)
 
 ・Onuma N., Higuchi H., Wakita H., Nagasawa H. Trace element partition between two pyroxenes and the host lava. Earth Planet Sci Lett., 5, 47 (1968). [Link](https://doi.org/10.1016/S0012-821X(68)80010-X)
 
