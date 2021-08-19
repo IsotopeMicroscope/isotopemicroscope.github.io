@@ -108,7 +108,7 @@ header:
 
 ・Shimizu N. Trace element incorporation into growing augite phenocryst. Nature 289, 575–577 (1981). [Link](https://doi.org/10.1038/289575a0)
 
-・Wood B.J., Banno S. Garnet-orthopyroxene and orthopyroxene-clinopyroxene relationships in simple and complex systems. Contr. Mineral. and Petrol. 42, 109–124 (1973). [Link](https://doi.org/https://doi.org/10.1007/BF00371501)
+・Wood B.J., Banno S. Garnet-orthopyroxene and orthopyroxene-clinopyroxene relationships in simple and complex systems. Contr. Mineral. and Petrol. 42, 109–124 (1973). [Link](https://doi.org/https://doi.org/10.1007/BF00371501)[メモ](https://docs.google.com/document/d/1C3RENG39PlEd3plWtqQ80Y7eDCzrjU8pWn_dYIfX-p4/edit?usp=sharing)
 
 ・坂本直哉, 同位体顕微鏡で探る太陽系, 日立ハイテク Scientific Instrument News 6・2 (2021). [Link](https://www.hitachi-hightech.com/jp/sinews/reports/6220211/)
 
