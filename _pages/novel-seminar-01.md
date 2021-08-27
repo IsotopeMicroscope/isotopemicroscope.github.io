@@ -85,7 +85,7 @@ header:
 
 ・海老原充, 元素の太陽系存在度と地球存在度, 地質ニュース (1984). [Link](https://www.gsj.jp/data/chishitsunews/84_09_02.pdf)
 
-・
+・Hirose, K., Wood, B. & Vočadlo, L. Light elements in the Earth’s core. Nat Rev Earth Environ (2021).[Link](https://doi.org/10.1038/s43017-021-00203-6)
 
 ・
 
