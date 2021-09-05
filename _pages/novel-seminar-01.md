@@ -114,7 +114,8 @@ header:
 
 ・坂本直哉, 二次元イオン検出器 SCAPS, 質量分析学会 検出器特集号 (2021). プレプリント[Link](http://vigarano.ep.sci.hokudai.ac.jp/naoya/scaps.pdf)
 
-・
+・Hasselkamp D. Kinetic Electron Emission from Solid Surfaces Under Ion Bombardment (1992). [Link](https://doi.org/10.1007/BFB0038298)
+
 
  
 ##### 日時・場所  
