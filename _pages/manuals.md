@@ -14,6 +14,11 @@ feature_row:
     title: "Cryo workflow"
     excerpt: "Leica社クライオ試料制作ワークフロー"
 feature_row2:
+  - url: https://drive.google.com/file/d/1zdjMRds6dfG2sIA7O1lRSrYmRjM8n1lg/view?usp=sharing
+    image_path: /assets/images/tools/Stereomicroscope.jpg
+    alt: "実体顕微鏡"
+    title: "実体顕微鏡"
+    excerpt: "実体顕微鏡"
   - url: /assets/images/tools/Keyence_VK-X200.png
     image_path: /assets/images/tools/Keyence_VK-X200.png
     alt: "Keyence VK-X200"
