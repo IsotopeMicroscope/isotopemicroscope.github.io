@@ -7,7 +7,7 @@ comments: true
 sidebar: 
     nav: "analysis"
 header:
-      image: ./../assets/images/cryo-leica.jpg
+      image: ./../assets/images/SIMS_crop.jpg
 ---
 ##### 概要 
 ユーザーによる同位体顕微鏡の活用事例の紹介と、他の先鋭的高度分析装置との連携による相乗効果を議論します。    
