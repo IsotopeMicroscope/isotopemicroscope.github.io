@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title : "第１回 ノーベルセミナー"
-permalink: /novel-2021s-01/
+permalink: /novel-2023-02/
 comments: true
 sidebar: 
     nav: "analysis"
