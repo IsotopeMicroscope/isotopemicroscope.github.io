@@ -15,19 +15,39 @@ main:
 
 # documentation links
 analysis:
-  - title: Getting Started
+  - title: はじめに
     children:
-      - title: "What's isotope microscope"
+      - title: "同位体顕微鏡とは？"
         url: /introduction/
-      - title: "試料の準備方法と形状"
+      - title: "試料形状"
         url: /introduction/sample/
       - title: "SIMSの原理"
         url: 
       - title: "SCAPSの原理"
         url: 
-      - title: "SIMSでよく見るグラフ・統計"
-        url: 
-  - title: Analysis
+  - title: 前処理ケーススタディ
+    children:
+      - title: "概要"
+        url: /manuals/
+      - title: "岩石"
+        url:
+      - title: "小腸"
+        url:
+      - title: "肝臓"
+        url:
+      - title: "眼球"
+        url:
+      - title: "脳"
+        url:
+      - title: "毛髪"
+        url:
+      - title: "コンデンサ"
+        url:
+      - title: "培養細胞"
+        url:
+      - title: "有機薄膜"
+        url:
+  - title: データ処理
     children:
       - title: "概要"
         url: /analysis/
@@ -43,23 +63,13 @@ analysis:
         url: 
       - title: "stackを使いこなす"
         url:
-  - title: Manuals
+  - title: 周辺装置マニュアル
     children:
       - title: "概要"
         url: /manuals/
       - title: "ACE600"
         url: /_pages/manual/contents/ace600.pdf
-  - title: Download
+  - title: データ解析ソフトのダウンロード
     children:
-      - title: "ImageJ tools-IMSview"
+      - title: "ImageJプラグイン ImsVIEW"
         url: /download/
-  - title: Meta
-    children:
-      - title: "Q &amp; A"
-        url: /qa/
-      - title: "ページ更新の方法"
-        url: /update/
-      - title: "Contributors"
-        url: 
-      - title: "Terms &amp; Privacy Policy"
-        url: 
