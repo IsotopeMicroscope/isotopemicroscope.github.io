@@ -6,10 +6,6 @@ main:
     url: /analysis/
   - title: "Manual"
     url: /manuals/
-  - title: "News"
-    url: /year-archive/
-  - title: "Q & A"
-    url: /qa/
   - title: "Download"
     url: /download/
 
@@ -25,7 +21,7 @@ analysis:
         url: 
       - title: "SCAPSの原理"
         url: 
-  - title: 前処理ケーススタディ
+  - title: 試料前処理ケーススタディ
     children:
       - title: "概要"
         url: /manuals/
