@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title : "第➂回 ノーベルセミナー"
+title : "第３回 ノーベルセミナー"
 permalink: /novel-2024-03/
 comments: true
 sidebar: 
