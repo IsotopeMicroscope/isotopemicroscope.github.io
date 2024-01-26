@@ -53,10 +53,10 @@ feature_row3:
 ---
 このページでは，SIMSの周辺装置群について，機器の紹介と一般的な使用マニュアルを掲載しています． 
 
-クライオ試料などライカ製品を中心とした前処理マニュアルはこちら
+[試料準備の方法と形状](./intoroduction/01_smaple.md)
+[ライオ試料などライカ製品を中心とした前処理マニュアルはこちら](https://sites.google.com/view/iil-preparation)
 
-Manual for Cryo sample preparation using Leica instruments
-
+[Manual for Cryogenic sample preparation using Leica instruments for isotope microscope](https://sites.google.com/view/iil-preparation)
 
 ### ワークフローの概略
 どのような順番で各装置を使うかの情報を掲載しています．   
