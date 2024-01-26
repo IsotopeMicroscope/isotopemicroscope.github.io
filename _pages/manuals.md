@@ -51,7 +51,11 @@ feature_row3:
     title: "Leica EM VCM"
     excerpt: "クライオローディングステーション"
 ---
-このページでは，SIMSの周辺装置群について，機器の紹介と一般的な使用マニュアルを掲載しています．   
+このページでは，SIMSの周辺装置群について，機器の紹介と一般的な使用マニュアルを掲載しています． 
+
+クライオ試料などライカ製品を中心とした前処理マニュアルはこちら
+Manual for Cryo sample preparation using Leica instruments
+
 
 ### ワークフローの概略
 どのような順番で各装置を使うかの情報を掲載しています．   
