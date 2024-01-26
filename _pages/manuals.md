@@ -54,6 +54,7 @@ feature_row3:
 このページでは，SIMSの周辺装置群について，機器の紹介と一般的な使用マニュアルを掲載しています． 
 
 クライオ試料などライカ製品を中心とした前処理マニュアルはこちら
+
 Manual for Cryo sample preparation using Leica instruments
 
 
