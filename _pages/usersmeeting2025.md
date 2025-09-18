@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title : "同位体顕微鏡ユーザーズミーティング2025 ~月面用SIMSとNanoSIMS~"
+title : "同位体顕微鏡ユーザーズミーティング2025<br>~月面用SIMSとNanoSIMS~"
 permalink: /usersmeeting2025/
 comments: true
 sidebar: 
@@ -44,6 +44,7 @@ header:
 参加費：　なし
 
 定員：２０名程度（定員に達し次第締切）    
+
 
 
 
