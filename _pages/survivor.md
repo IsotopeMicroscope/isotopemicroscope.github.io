@@ -17,5 +17,5 @@ An informal gathering of sector SIMS users, developers, and friends.
 
 ##### Date & Venue  
 Date: 23 June, 2027  
-Venue: Hokkaido University  [[Location]](https://www.global.hokudai.ac.jp/)  
+Venue: Hokkaido University  [Location](https://www.global.hokudai.ac.jp/)  
 
