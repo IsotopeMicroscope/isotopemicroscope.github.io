@@ -3,9 +3,8 @@ layout: single
 classes: wide
 title : "Sector SIMS Servivor's Nithgt"
 permalink: /survivor/
-comments: true
-sidebar: 
-    nav: "analysis"
+comments: false
+
 header:
       image: ./../assets/images/Solvay_conference_1927.jpg
 ---
