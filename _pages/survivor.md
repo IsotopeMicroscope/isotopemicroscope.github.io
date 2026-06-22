@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title : "Sector SIMS Survivors' Nithgt"
+title : "Sector SIMS Survivors' Nitght"
 permalink: /survivor/
 comments: false
 
