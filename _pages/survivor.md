@@ -6,7 +6,7 @@ permalink: /survivor/
 comments: false
 
 header:
-      image: ./inside.png
+      image: ./../assets/images/sims_inside.jpg
 ---
 
 ##### Overview 
