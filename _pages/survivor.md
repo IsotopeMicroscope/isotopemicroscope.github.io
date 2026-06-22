@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title : "Sector SIMS Servivor's Nithgt"
+title : "Sector SIMS Servivors' Nithgt"
 permalink: /survivor/
 comments: false
 
