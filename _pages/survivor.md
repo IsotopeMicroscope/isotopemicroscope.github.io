@@ -9,7 +9,7 @@ header:
       image: ./../assets/images/sims_inside.jpg
 ---
 
--From Servival to Revival-
+-From Survival to Revival-
 
 ##### Overview 
 
