@@ -1,13 +1,15 @@
 ---
 layout: single
 classes: wide
-title : "Sector SIMS Servivor's Nithgt  -From Servival to Revival-"
+title : "Sector SIMS Servivor's Nithgt"
 permalink: /survivor/
 comments: false
 
 header:
       image: ./../assets/images/sims_inside.jpg
 ---
+
+-From Servival to Revival-
 
 ##### Overview 
 
