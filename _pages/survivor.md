@@ -1,15 +1,20 @@
 ---
 layout: single
 classes: wide
-title : "Sector SIMS Servivor's Nithgt"
+title : "Sector SIMS Servivor's Nithgt -From Servival to Revival-"
 permalink: /survivor/
 comments: false
 
 header:
       image: ./../assets/images/Solvay_conference_1927.jpg
 ---
+Sector SIMS Survivors' Night
+-From Survival to Revival-
 ##### overview 
 
+An informal gathering of sector SIMS users, developers, and friends.
+
+"Reports of our extinction have been greatly exaggerated."
 
 ##### Date & Venue  
 Date: 23 June, 2027  
