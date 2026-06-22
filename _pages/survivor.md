@@ -6,7 +6,7 @@ permalink: /survivor/
 comments: false
 
 header:
-      image: ./../assets/images/Solvay_conference_1927.jpg
+      image: ./inside.png
 ---
 Sector SIMS Survivors' Night
 -From Survival to Revival-
