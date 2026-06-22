@@ -8,9 +8,8 @@ comments: false
 header:
       image: ./inside.png
 ---
-Sector SIMS Survivors' Night
--From Survival to Revival-
-##### overview 
+
+##### Overview 
 
 An informal gathering of sector SIMS users, developers, and friends.
 
