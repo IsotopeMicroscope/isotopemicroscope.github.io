@@ -16,16 +16,18 @@ header:
 The time for gathering has come.
 
 For years, we have kept the flame alive.
-Now, let us stand together once more.
+
+Across distant lands, each of us has guarded the last great instruments entrusted to our care. Yet even the finest blades cannot remain sharp forever, and even the greatest relics will one day fall silent.
+
+But before rust claims our final weapons, a new light has appeared beyond the horizon.
 
 Come to Sapporo.
-Meet old comrades.
-Welcome new keepers.
-Witness what lies ahead.
+
+Meet old comrades. Welcome new Keepers. Witness the dawn of what comes next.
 
 The story of Sector SIMS is not yet finished.
 
-Gather. Stand together. Keep the flame alive. 
+Gather. Stand together. Keep the flame alive.
 
 
 
