@@ -11,6 +11,23 @@ header:
 
 -From Survival to Revival-
 
+
+### To the Keepers of Sector SIMS
+The time for gathering has come.
+
+For years, we have kept the flame alive.
+Now, let us stand together once more.
+
+Come to Sapporo.
+Meet old comrades.
+Welcome new keepers.
+Witness what lies ahead.
+
+The story of Sector SIMS is not yet finished.
+
+Gather. Stand together. Keep the flame alive. 
+
+
 ##### Overview 
 
 An informal gathering of sector SIMS users, developers, and friends.
