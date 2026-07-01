@@ -41,7 +41,7 @@ This gathering will take place on the day before The 26th Scientific Internation
 
 **Date & Venue**
 
-23 June 2027, Hokkaido University  [[Location]](https://www.google.com/maps/place/8RM338MP%2BR7)
+**23 June 2027**, Hokkaido University  [[Location]](https://www.google.com/maps/place/8RM338MP%2BR7)
 
 
 > *"Reports of our extinction have been greatly exaggerated."*
