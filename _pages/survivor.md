@@ -35,12 +35,9 @@ Gather. Stand together. Keep the flame alive.
 
 <div align="center">
 
-# ⚔️ To the Keepers of Sector SIMS ⚔️
+# To the Keepers of Sector SIMS
 
-### *The time for gathering has come.*
-
----
-
+The time for gathering has come.
 > **For years, we have kept the flame alive.**
 >
 > Across distant lands, each of us has guarded the last great instruments entrusted to our care.
