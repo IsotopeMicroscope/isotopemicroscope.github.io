@@ -10,6 +10,7 @@ header:
 ---
 
 -From Survival to Revival-
+<br>
 
 # To the Keepers of Sector SIMS
 
@@ -41,6 +42,6 @@ This gathering will take place on the day before The 26th Scientific Internation
 ##### Date & Venue  
 Date: 23 June, 2027  
 Venue: Hokkaido University  [Location](https://www.global.hokudai.ac.jp/)  
-
 <br>
+
 ***"Reports of our extinction have been greatly exaggerated."***
