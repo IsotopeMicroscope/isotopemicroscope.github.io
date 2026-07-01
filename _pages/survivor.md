@@ -48,5 +48,4 @@ Venue: Hokkaido University  [Location](https://www.global.hokudai.ac.jp/)
 
 
 
-___ "Reports of our extinction have been greatly exaggerated." ___
-
+**"Reports of our extinction have been greatly exaggerated."**
