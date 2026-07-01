@@ -54,10 +54,7 @@ The time for gathering has come.
 >
 > The story of Sector SIMS is not yet finished.
 >
-> ### **Gather. Stand together. Keep the flame alive.**
-
----
-
+> Gather. Stand together. Keep the flame alive.
 </div>
 
 
