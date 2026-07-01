@@ -13,7 +13,7 @@ header:
 <br>
 <br>
 
-## To the Keepers of Sector SIMS
+# To the Keepers of Sector SIMS
 
 > The time for gathering has come.
 >
