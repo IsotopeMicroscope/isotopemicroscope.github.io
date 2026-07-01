@@ -40,9 +40,13 @@ This gathering will take place on the day before The 26th Scientific Internation
 
 [SISS-26@Sapporo](https://www.siss-sims.com/siss2026/)
 
-"Reports of our extinction have been greatly exaggerated."
 
 ##### Date & Venue  
 Date: 23 June, 2027  
 Venue: Hokkaido University  [Location](https://www.global.hokudai.ac.jp/)  
+
+
+
+
+"Reports of our extinction have been greatly exaggerated."
 
