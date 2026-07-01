@@ -12,7 +12,6 @@ header:
 -From Survival to Revival-
 
 ---
-[!]
 ### To the Keepers of Sector SIMS
 The time for gathering has come.
 
