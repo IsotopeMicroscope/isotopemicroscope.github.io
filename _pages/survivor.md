@@ -41,13 +41,9 @@ This gathering will take place on the day before [The 26th Scientific Internatio
 
 <br>
 
-**Date**
+**Date :** 23 June 2027
 
-23 June 2027
-
-**Venue**
-
-Hokkaido University  [[Location]](https://www.google.com/maps/place/8RM338MP%2BR7)
+**Venue :** Hokkaido University  [[Location]](https://www.google.com/maps/place/8RM338MP%2BR7)
 
 <br><br>
 
