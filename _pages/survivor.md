@@ -29,7 +29,7 @@ header:
 >
 > Gather. Stand together. Keep the flame alive.
 <br>
-<br>
+
 ##### Overview 
 
 An informal gathering of sector SIMS users, developers, and friends.
