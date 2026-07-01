@@ -39,10 +39,10 @@ An informal gathering of **Sector SIMS** users, developers, and friends.
 
 This gathering will take place on the day before [The 26th Scientific International Symposium on SIMS and Related Techniques Based on Ion–Solid Interactions (SISS-26)](https://www.siss-sims.com/siss2026/), which will be held at the same venue on September 24–25.
 
+**Date & Venue**
 
-**Date :** 23 June 2027
-
-**Venue :** Hokkaido University  [[Location]](https://www.google.com/maps/place/8RM338MP%2BR7)
+**23 June 2027**
+Hokkaido University  [[Location]](https://www.google.com/maps/place/8RM338MP%2BR7)
 
 
 > *"Reports of our extinction have been greatly exaggerated."*
