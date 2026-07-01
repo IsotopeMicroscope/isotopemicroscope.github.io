@@ -41,7 +41,6 @@ This gathering will take place on the day before [The 26th Scientific Internatio
 
 <br>
 
-### Date & Venue  
 **Date**
 23 June 2027
 
