@@ -12,27 +12,34 @@ header:
 -From Survival to Revival-
 
 <div align="center">
-To the Keepers of Sector SIMS
-> The time for gathering has come.
-> For years, we have kept the flame alive.
+
+# To the Keepers of Sector SIMS
+
+### *The time for gathering has come.*
+
+---
+
+> **For years, we have kept the flame alive.**
 >
 > Across distant lands, each of us has guarded the last great instruments entrusted to our care.
 >
 > Yet even the finest blades cannot remain sharp forever, and even the greatest relics will one day fall silent.
 >
-> But before rust claims our final weapons, a new light has appeared beyond the horizon.
+> **But before rust claims our final weapons, a new light has appeared beyond the horizon.**
 >
-> Come to Sapporo.
+> ## **Come to Sapporo.**
 >
 > Meet old comrades.  
 > Welcome new Keepers.  
 > Witness the dawn of what comes next.
 >
-> The story of Sector SIMS is not yet finished.
+> **The story of Sector SIMS is not yet finished.**
 >
-> Gather. Stand together. Keep the flame alive.
-</div>
+> ### **Gather. Stand together. Keep the flame alive.**
 
+---
+
+</div>
 
 
 ##### Overview 
