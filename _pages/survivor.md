@@ -12,7 +12,7 @@ header:
 -From Survival to Revival-
 
 <div align="center">
-# To the Keepers of Sector SIMS
+To the Keepers of Sector SIMS
 > The time for gathering has come.
 > For years, we have kept the flame alive.
 >
