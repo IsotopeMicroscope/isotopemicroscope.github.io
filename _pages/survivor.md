@@ -13,7 +13,7 @@ header:
 <br>
 <br>
 
-# To the Keepers of Sector SIMS
+## To the Keepers of Sector SIMS
 
 > The time for gathering has come.
 >
@@ -38,7 +38,6 @@ header:
 An informal gathering of **Sector SIMS** users, developers, and friends.
 
 This gathering will take place on the day before [The 26th Scientific International Symposium on SIMS and Related Techniques Based on Ion–Solid Interactions (SISS-26)](https://www.siss-sims.com/siss2026/), which will be held at the same venue on September 24–25.
-
 
 **Date :** 23 June 2027
 
