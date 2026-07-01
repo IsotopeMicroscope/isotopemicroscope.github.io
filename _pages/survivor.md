@@ -14,6 +14,8 @@ header:
 
 # To the Keepers of Sector SIMS
 
+<br>
+
 > The time for gathering has come.
 >
 > For years, we have kept the flame alive.
