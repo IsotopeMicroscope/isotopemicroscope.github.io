@@ -29,7 +29,6 @@ header:
 >
 > Gather. Stand together. Keep the flame alive.
 
----
 
 ##### Overview 
 
