@@ -12,7 +12,7 @@ header:
 -From Survival to Revival-
 
 ---
-### To the Keepers of Sector SIMS
+|### To the Keepers of Sector SIMS
 The time for gathering has come.
 
 For years, we have kept the flame alive.
@@ -27,7 +27,7 @@ Meet old comrades. Welcome new Keepers. Witness the dawn of what comes next.
 
 The story of Sector SIMS is not yet finished.
 
-Gather. Stand together. Keep the flame alive.
+Gather. Stand together. Keep the flame alive.|
 
 
 
@@ -48,4 +48,4 @@ Venue: Hokkaido University  [Location](https://www.global.hokudai.ac.jp/)
 
 
 
-*"Reports of our extinction have been greatly exaggerated."*
+***"Reports of our extinction have been greatly exaggerated."***
