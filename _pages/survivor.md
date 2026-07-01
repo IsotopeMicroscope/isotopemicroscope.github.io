@@ -30,7 +30,9 @@ header:
 >
 > Gather. Stand together. Keep the flame alive.
 <br>
+
 ---
+
 ## The Gathering
 
 An informal gathering of **Sector SIMS** users, developers, and friends.
