@@ -6,7 +6,7 @@ permalink: /survivor/
 comments: false
 
 header:
-      image: ./../assets/images/sims_inside.jpg
+      image: ./../assets/images/survivor.jpg
 ---
 
 -From Survival to Revival-
